@@ -1,0 +1,9 @@
+D:\MyProgs\C++_C#\2015\OP1\00.Snake\00.Snake\bin\Debug\00.Snake.exe.config
+D:\MyProgs\C++_C#\2015\OP1\00.Snake\00.Snake\obj\Debug\00.Snake.exe
+D:\MyProgs\C++_C#\2015\OP1\00.Snake\00.Snake\obj\Debug\00.Snake.pdb
+D:\MyProgs\C++_C#\2015\OP1\00.Snake\00.Snake\bin\Debug\00.Snake.exe
+D:\MyProgs\C++_C#\2015\OP1\00.Snake\00.Snake\bin\Debug\00.Snake.pdb
+D:\MyProgs\C++_C#\2015\OP1\00.Snake\00.Snake\obj\Debug\00.Snake.csprojResolveAssemblyReference.cache
+D:\MyProgs\C++_C#\2015\OP1\00.Snake\00.Snake\obj\Debug\_00.Snake.Form1.resources
+D:\MyProgs\C++_C#\2015\OP1\00.Snake\00.Snake\obj\Debug\_00.Snake.Properties.Resources.resources
+D:\MyProgs\C++_C#\2015\OP1\00.Snake\00.Snake\obj\Debug\00.Snake.csproj.GenerateResource.Cache
